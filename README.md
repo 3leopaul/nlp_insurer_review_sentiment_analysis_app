@@ -1,3 +1,5 @@
+# Project by : JUILLARD Axel & CHAUVIGNE Léo-Paul
+
 # 🛡️ Insurance Reviews NLP Insights - Final Project
 
 An end-to-end NLP pipeline and interactive dashboard for analyzing ~35,000 French insurance reviews. This project covers the entire machine learning lifecycle, from advanced cleaning and unsupervised discovery to high-performance supervised classification and RAG-based search.
