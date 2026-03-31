@@ -1,0 +1,24 @@
+# 🛡️ NLP Project Requirements
+
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+transformers
+spacy
+language_tool_python
+gensim
+wordcloud
+pyLDAvis
+shap
+lime
+faiss-cpu
+sentence-transformers
+tqdm
+openpyxl
+langdetect
+nltk
+torch
